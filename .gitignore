@@ -1,0 +1,11 @@
+data/*
+data/census/*
+data/dem/*
+data/glaciers/*
+data/lakes/*
+data/rivers/*
+.vscode
+.DS_Store
+*__pycache__/
+
+
